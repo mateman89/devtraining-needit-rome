@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyTable" max_length="40" name="x_58872_needit_mytable" type="collection">
+        <element label="Test1" max_length="40" name="test1" type="string"/>
+        <element label="Test2" max_length="40" name="test2" type="string"/>
+    </element>
+</database>
